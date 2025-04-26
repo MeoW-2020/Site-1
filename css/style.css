@@ -50,7 +50,7 @@ a[href="index.html"] {
     );
     background: var(--road-color);
     /* box-shadow: 4px 0px 8px 1px rgba(0, 0, 0, 0.2); */
-    background-image: url(img/road.png);
+    background-image: url(../img/road.png);
     background-size: var(--left-column-width) auto;
 }
 
@@ -72,7 +72,7 @@ a[href="index.html"] {
 
 #main {
     background: white;
-    background-image: url(img/bg.png);
+    background-image: url(../img/bg.png);
     background-size: 512px;
     height: fit-content;
     min-height: calc(
